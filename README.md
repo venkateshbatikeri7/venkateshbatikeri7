@@ -11,9 +11,10 @@
 [![Email](https://img.shields.io/badge/-batikerisvenkatesh%40outlook.com-14A1F0?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:batikerisvenkatesh@outlook.com)
 [![Location](https://img.shields.io/badge/-Bengaluru%2C%20India-E74C3C?style=for-the-badge&logo=google-maps&logoColor=white)]
 
-</div>
 <!-- Buy Me a Coffee Button -->
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/venkateshBatikeri)
+</div>
+
 ---
 
 ## 💡 What I Bring to the Table
