@@ -12,7 +12,8 @@
 [![Location](https://img.shields.io/badge/-Bengaluru%2C%20India-E74C3C?style=for-the-badge&logo=google-maps&logoColor=white)]
 
 </div>
-
+<!-- Buy Me a Coffee Button -->
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/venkateshBatikeri)
 ---
 
 ## 💡 What I Bring to the Table
